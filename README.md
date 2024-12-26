@@ -3,6 +3,6 @@
 Some text
 
 
-## Sub0heading
+## Sub-heading
 
 Some more text
